@@ -8,7 +8,8 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "build-storybook-docs": "build-storybook  --docs",
-    "chromatic": "npx chromatic --project-token=9213ebc37209"
+    "chromatic": "npx chromatic --project-token=9213ebc37209",
+    "release": "auto shipit --base-branch=development"
   },
   "author": "machel slack",
   "license": "ISC",
