@@ -6,7 +6,8 @@
   "scripts": {
     "build": "rm -rf && tsc",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "chromatic": "npx chromatic --project-token=9213ebc37209"
   },
   "author": "machel slack",
   "license": "ISC",
