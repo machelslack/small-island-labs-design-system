@@ -1,3 +1,18 @@
+# v1.0.2 (Mon Jun 27 2022)
+
+#### ⚠️ Pushed to `development`
+
+- removed unused components ([@machelslackatnewsuk](https://github.com/machelslackatnewsuk))
+- created file to automate releases with GitHub actions ([@machelslack](https://github.com/machelslack))
+- updated package json with release command ([@machelslack](https://github.com/machelslack))
+
+#### Authors: 2
+
+- [@machelslack](https://github.com/machelslack)
+- [@machelslackatnewsuk](https://github.com/machelslackatnewsuk)
+
+---
+
 # v1.0.1 (Sun Jun 05 2022)
 
 #### ⚠️ Pushed to `master`
