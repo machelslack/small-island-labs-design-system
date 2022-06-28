@@ -13,10 +13,7 @@ const Button = styled.button`
 `;
 
 export default () => (
-  <>
-    <span>{"This is a span element"}</span>
-    <Button onClick={() => alert("button clicked")}>
-      {"This is a button to click"}
-    </Button>
-  </>
+  <Button onClick={() => alert("button clicked")}>
+    {"This is a button to click"}
+  </Button>
 );

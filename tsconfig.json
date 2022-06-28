@@ -18,13 +18,14 @@
       "sourceMap": true,
       "skipLibCheck": true
     },
-    "include": ["src/**/*"],
+    "include": ["src/**/**/*"],
     "exclude": [
       "node_modules",
       "lib",
       "dist",
       "stories",
-      "**/*.stories.tsx",
+      "**/**/**/*.stories.tsx",
+      "**/**/*.stories.tsx",
       "**.test.ts",
       "**.test.tsx"
     ]
