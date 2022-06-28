@@ -1,3 +1,15 @@
+# v1.0.5 (Tue Jun 28 2022)
+
+#### ⚠️ Pushed to `development`
+
+- changing browser target to esnext ([@machelslackatnewsuk](https://github.com/machelslackatnewsuk))
+
+#### Authors: 1
+
+- [@machelslackatnewsuk](https://github.com/machelslackatnewsuk)
+
+---
+
 # v1.0.4 (Tue Jun 28 2022)
 
 #### ⚠️ Pushed to `development`
