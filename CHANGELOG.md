@@ -1,3 +1,15 @@
+# v1.0.4 (Tue Jun 28 2022)
+
+#### ⚠️ Pushed to `development`
+
+- change typescript build to ES2020 ([@machelslackatnewsuk](https://github.com/machelslackatnewsuk))
+
+#### Authors: 1
+
+- [@machelslackatnewsuk](https://github.com/machelslackatnewsuk)
+
+---
+
 # v1.0.3 (Tue Jun 28 2022)
 
 #### ⚠️ Pushed to `development`
