@@ -4,7 +4,7 @@
   "description": "design system",
   "main": "dist/index.js",
   "scripts": {
-    "build": "rm -rf dist && tsc",
+    "build": "rm -rf dist && tsc -p tsconfig/tsconfig-esm.json && tsc -p tsconfig/tsconfig-cjs.json --watch",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "build-storybook-docs": "build-storybook  --docs",
