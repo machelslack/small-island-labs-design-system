@@ -1,3 +1,15 @@
+# v1.0.6 (Wed Jun 29 2022)
+
+#### ⚠️ Pushed to `development`
+
+- added ts build for commonjs modules and esm ([@machelslackatnewsuk](https://github.com/machelslackatnewsuk))
+
+#### Authors: 1
+
+- [@machelslackatnewsuk](https://github.com/machelslackatnewsuk)
+
+---
+
 # v1.0.5 (Tue Jun 28 2022)
 
 #### ⚠️ Pushed to `development`
